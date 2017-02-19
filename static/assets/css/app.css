@@ -1,0 +1,20 @@
+html,body
+{
+  background-color: #242424;
+}
+
+.navbar-inverse
+{
+  border-style: none;
+}
+
+.section-header
+{
+  background-color: black;
+  height: 110px;
+}
+
+.section-header img
+{
+  margin-top: 5px;
+}
